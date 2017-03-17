@@ -1,0 +1,15 @@
+    .succ{
+      color: #fff;
+      border: 1px solid #4CAF50;
+      background: #4CAF50;
+    }
+    .fail{
+      color: #fff;
+      border: 1px solid #e53935;
+      background: #e53935;
+    }
+    .dialog{
+      box-shadow: 0 0 10px rgba(0, 0, 0, .7);
+      padding: 5%;
+      font-size: 3em;
+    }
